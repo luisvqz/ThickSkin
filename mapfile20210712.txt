@@ -1,0 +1,177 @@
+sampleid	AMCC	batid	Locality	species	Bat Sex	BatFlyGenus	BatFlySpecies	BatFlySex	BatSwab	CaveSwab	BatFly	BatGI	Cave	Type	Type2	Source
+201		201	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+207		207	Chamela	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+213		213	Chamela	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+215		215	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+229		229	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+260		260	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+261		261	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+475		475	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+478		478	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+482		482	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+483		483	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+487		487	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+488		488	Chamela	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+490		490	Chamela	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+502		502	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+506		506	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+507		507	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+508		508	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+512		512	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+527		527	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+536		536	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+542		542	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+544		544	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+546		546	Chamela	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+548		548	Chamela	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+573		573	Coquimatlán	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+574		574	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+575		575	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+576		576	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+582		582	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+586		586	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+589		589	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+591		591	Coquimatlán	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+592		592	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+594		594	Coquimatlán	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+595		595	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+596		596	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+597		597	Coquimatlán	Leptonycteris yerbabuenae	M							Y		Bat GI	Bat GI	Bat
+599		599	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+601		601	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+607		607	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+608		608	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+612		612	Coquimatlán	Leptonycteris yerbabuenae	F							Y		Bat GI	Bat GI	Bat
+249636	249636	265	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+249642	249642	260	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+255986	255986	512	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+255999	255999	487	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256030	256030	574	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256032	256032	576	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256042	256042	586	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+256048	256048	592	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256053	256053	597	Coquimatlán	Leptonycteris yerbabuenae	M	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256066	256066	612	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+249594-1	249594	201	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+249594-2	249594	201	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+249595-1	249595	207	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+249595-2	249595	207	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+249600-1	249600	213	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+249600-2	249600	213	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+249600-3	249600	213	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+249601-1	249601	215	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+249601-2	249601	215	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+249601-3	249601	215	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+249614-1	249614	229	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+249614-2	249614	229	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+249614-3	249614	229	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+249630-1	249630	261	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+249630-2	249630	261	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+249630-3	249630	261	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+249630-4	249630	261	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+249630-5	249630	261	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+255981-1	255981	488	Chamela	Leptonycteris yerbabuenae	M	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+255981-2	255981	488	Chamela	Leptonycteris yerbabuenae	M	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+255983-1	255983	483	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+255983-2	255983	483	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+255983-3	255983	483	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+255983-4	255983	483	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+255983-5	255983	483	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+255987-1	255987	507	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+255987-2	255987	507	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+255987-3	255987	507	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+255987-4	255987	507	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+255988-1	255988	506	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+255988-2	255988	506	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+255988-3	255988	506	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+255991-1	255991	490	Chamela	Leptonycteris yerbabuenae	M	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+255991-2	255991	490	Chamela	Leptonycteris yerbabuenae	M	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+255995-1	255995	482	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+255995-2	255995	482	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+255995-3	255995	482	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+255997-1	255997	502	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+255997-2	255997	502	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256002-1	256002	508	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256002-2	256002	508	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256002-3	256002	508	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256028-1	256028	573	Coquimatlán	Leptonycteris yerbabuenae	M	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256028-2	256028	573	Coquimatlán	Leptonycteris yerbabuenae	M	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256028-3	256028	573	Coquimatlán	Leptonycteris yerbabuenae	M	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+256029-1	256029	536	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256029-2	256029	536	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256029-3	256029	536	Chamela	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256029-4	256029	536	Chamela	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+256031-1	256031	575	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256031-2	256031	575	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256038-1	256038	582	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256038-2	256038	582	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256045-1	256045	589	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256045-2	256045	589	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256045-3	256045	589	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256047-1	256047	591	Coquimatlán	Leptonycteris yerbabuenae	M	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256047-2	256047	591	Coquimatlán	Leptonycteris yerbabuenae	M	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256049-1	256049	595	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256050-1	256050	594	Coquimatlán	Leptonycteris yerbabuenae	M	Trichobius	sphaeronotus	male			Y			BatFly	Trichobius	Outside
+256051-1	256051	596	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256054-1	256054	600	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256054-2	256054	600	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256055-1	256055	601	Coquimatlán	Leptonycteris yerbabuenae	F	Trichobius	sphaeronotus	female			Y			BatFly	Trichobius	Outside
+256055-2	256055	601	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+256061-1	256061.1	607	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+256061-2	256061.1	607	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+256061-3	256061.1	607	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+256062-1	256062	608	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	female			Y			BatFly	Nycterophilia	Outside
+256062-2	256062	608	Coquimatlán	Leptonycteris yerbabuenae	F	Nycterophilia	coxata	male			Y			BatFly	Nycterophilia	Outside
+475V	255984	475	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+478V	256000	478	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+482V	255995	482	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+483V	255983	483	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+488V	255981	488	Chamela	Leptonycteris yerbabuenae	M				Y					Bat Skin	Bat Skin	Bat
+502V	255997	502	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+506V	255988	506	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+507V	255987	507	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+508V	256002	508	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+512V	255986	512	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+527V	256015	527	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+542V	256013	542	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+544V	256012	544	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+546V	256016	546	Chamela	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+548V	256014	548	Chamela	Leptonycteris yerbabuenae	M				Y					Bat Skin	Bat Skin	Bat
+573V	256028	573	Coquimatlán	Leptonycteris yerbabuenae	M				Y					Bat Skin	Bat Skin	Bat
+574V	256030	574	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+575V	256031	575	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+576V	256032	576	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+582V	256038	582	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+586V	256042	586	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+589V	256045	589	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+594V	256050	594	Coquimatlán	Leptonycteris yerbabuenae	M				Y					Bat Skin	Bat Skin	Bat
+596V	256051	596	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+597V	256053	597	Coquimatlán	Leptonycteris yerbabuenae	M				Y					Bat Skin	Bat Skin	Bat
+599V	256052	599	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+600V	256054	600	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+607V	256061	607	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+608V	256062	608	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+612V	256066	612	Coquimatlán	Leptonycteris yerbabuenae	F				Y					Bat Skin	Bat Skin	Bat
+249683-1		remove														nono
+249683-2		remove														nono
+249683-3		remove														nono
+249683-4		remove														nono
+249684-1		remove														nono
+249684-2		remove														nono
+249684-3		remove														nono
+249684-4		remove														nono
+249685-1		remove														nono
+249686-1		remove														nono
+249686-4		remove														nono
+249686-3		remove														nono
+249687-1		remove														nono
+249688-2		remove														nono
+249691-1		remove														nono
+249691-2		remove														nono
+249688-1		remove														nono
+Panchito		cave	Chamela	cave									Y	Cave	Cave	nono
+Fabrica		cave	Coquimatlán	cave									Y	Cave	Cave	nono
+Ext		control														nono
+PCR		control														nono
+MicrobDNAplus		positive	positive											Mock	Mock	nono
+Microbialplus		positive	positive											Mock	Mock	nono
